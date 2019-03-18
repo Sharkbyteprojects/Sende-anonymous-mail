@@ -10,4 +10,4 @@ install:
   - pip install requests
 # command to run tests
 script:
-  - python sendmail.py
+  - python sendmail_test.py
