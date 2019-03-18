@@ -3,8 +3,8 @@ import time
 froms = 'python-mailer@sharkbytenetwork.net'
 print("Sharkbyteprojects Mailing Service Free")
 to = "sharkbyteprojects@protonmail.com"
-subject = "test"
-message = "TEst OK!"
+subject = "test send mail"
+message = "travic ci test OK!"
 url = 'http://services.sharkbyte.bplaced.net/send.php?user=python'
 payload = {'from': froms,
 'to': to,
